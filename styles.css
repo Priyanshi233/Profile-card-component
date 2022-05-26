@@ -5,14 +5,15 @@ body {
   background-color: hsl(185, 75%, 39%);
   background-image: url("images/bg-pattern-top.svg"),
     url("images/bg-pattern-bottom.svg");
-  background-position: -300px -600px, 1000px 440px;
+  background-position: -60px -600px, 1100px 440px;
   background-repeat: no-repeat;
   height: 45px;
+
   font-family: "Kumbh Sans", sans-serif;
 }
 .card-component {
   width: 450px;
-  height: 460px;
+  height: 450px;
   background-color: white;
   position: absolute;
   transform: translate(-50%, -50%);
